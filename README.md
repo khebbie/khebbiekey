@@ -7,6 +7,7 @@ For the app to work the following files must exists in c:\khebbiekeys
 - a number of html files refered to in khebbiekeys.xml.
 
 The layout of khebbiekeys.xml should be as follows:
+	
 	<khebbiekey>
 		<sk>
 			<key>outlook</key>
