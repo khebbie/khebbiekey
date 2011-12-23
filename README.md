@@ -1,4 +1,5 @@
-This is a small shortcut key app that can detect which window is on top and show an appropriate html document inside.
+This is a shortcut key app that can detect which window is on top and show an appropriate html document inside.
+It was written many years ago and has since been hidden away in a folder of my gmail account - man it could sure need some love :-)
 
 There is only one shortcut key for the which is Windows-K, to show hide the main window.
 
